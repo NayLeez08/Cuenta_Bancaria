@@ -13,4 +13,3 @@ Console.WriteLine("Ingrese la operacion a realizar: \n" +
 
 opcionReservacion = int.Parse(Console.ReadLine());
 cuenta_Bancaria.Operacion(opcionReservacion);
-1
